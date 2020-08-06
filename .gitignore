@@ -124,10 +124,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-notebooks/data/casas
-notebooks/data/departamentos
-notebooks/data/models
-notebooks/data/export.pkl
+
+
+
+# Archivos Innecesarios (entrenamiento)
+data/
 
 .DS_Store
 
